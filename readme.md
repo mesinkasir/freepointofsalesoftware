@@ -1,7 +1,9 @@
 # NINJA POS APPS
 
 free and open source code project develope using ms.accssess for offline desktop mode.
-very complete for support your bussiness management.
+very complete for support your bussiness management. 
+
+Let get started and back with old school version
 
 ![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/login.png/max/max/1)
 
