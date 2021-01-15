@@ -31,6 +31,8 @@ Product database with barcode.
 
 100% full source code and Free download !!
 
+Cek demo and [video installation here →](https://youtu.be/Xzh8mDTTM7k)
+
 
 ### How to use ninja pos apps
 
