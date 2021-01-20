@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# NINJA POS APPS
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/freepointofsalesoftware/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+free and open source code project develope using ms.accssess for offline desktop mode.
+very complete for support your bussiness management. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let get started and back with old school version
 
-### Markdown
+![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/login.png/max/max/1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cool login area menu
 
-```markdown
-Syntax highlighted code block
+![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/home.png/max/max/1)
 
-# Header 1
-## Header 2
-### Header 3
+Complete features for supporting your bussiness
 
-- Bulleted
-- List
+![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/report.png/max/max/1)
 
-1. Numbered
-2. List
+All report details make easy for check report.
 
-**Bold** and _Italic_ and `Code` text
+![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/po.png/max/max/1)
 
-[Link](url) and ![Image](src)
-```
+Purchase order fatures and support return too.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/pos.png/max/max/1)
 
-### Jekyll Themes
+Point of sale cashier transaction with barcode and retur sale too.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/freepointofsalesoftware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/products.png/max/max/1)
 
-### Support or Contact
+Product database with barcode.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+100% full source code and Free download !!
+
+Cek demo and [video installation here →](https://youtu.be/Xzh8mDTTM7k)
+
+
+### How to use ninja pos apps
+
++ This pos apps work with windows OS 32/84 bit, so make sure your windows is 32/84 bit
++ Install ms accsess or accsess run time for using this apps
++ Download Ninja Pos Apps
++ Extract on your folder project
++ Double click on ninja pos apps file
++ Then you need click open on ms accsess
++ Login with username : admin and password : admin
++ Now you can accsses and work with ninja pos apps.
+
+First use :
++ need to create a databased 
++ User for create and register user
++ Password for change password
++ Accsess for create user accses account like admin or cashier
++ Supplier for register your supplier
++ Group for create new group products, like food or drink and more
++ Purchase for create new pruchase transaction to your supplier
++ Purchase Return for create return purchase transaction
++ Point of sale for create new POS cashier transaction and automaticly print out.
++ POS return for return cashier sale transaction
++ Report for chek all report details like inventori, sale, purchase and more.
++ Bonus Kalkulator short cut and notepad shortcut
++ Log Off for out and change user
++ Shutdown for close ninja pos apps .
+
+Free and open source code project present by https://www.hockeycomputindo.com
+made with love by https://mesinkasironline.web.app - https://mesinkasir.github.io
+
+
+Donation
+
+make a contribution by sharing our application with the world through your social media or voluntary donations to our account so we can give the best for you again.
+
+Donate Now using moneygram or western union send money to we local bank account.
+
+BANK CENTRAL ASIA
+ACCOUNT NO : 0181884109
+ACCOUNT NAME : SUCI CHANIFAH
+IBAN/SWIFT CODE : CENAIDJA
