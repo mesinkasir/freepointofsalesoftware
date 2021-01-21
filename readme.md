@@ -1,5 +1,7 @@
 # NINJA POS APPS
 
+Please read documentation and tutorial full here : https://www.hockeycomputindo.com/2021/01/free-software-pos-download-gratis-100.html
+
 free and open source code project develope using ms.accssess for offline desktop mode.
 very complete for support your bussiness management. 
 
@@ -60,6 +62,9 @@ First use :
 + Bonus Kalkulator short cut and notepad shortcut
 + Log Off for out and change user
 + Shutdown for close ninja pos apps .
+
+documentation and tutorial full : https://www.hockeycomputindo.com/2021/01/free-software-pos-download-gratis-100.html
+
 
 Free and open source code project present by https://www.hockeycomputindo.com
 made with love by https://mesinkasironline.web.app - https://mesinkasir.github.io
