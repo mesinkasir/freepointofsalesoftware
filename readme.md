@@ -7,27 +7,27 @@ very complete for support your bussiness management.
 
 Let get started and back with old school version
 
-![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/login.png/max/max/1)
+![free point of sale software free download](https://1.bp.blogspot.com/-yayAIXoRt0k/YAGznTbz3QI/AAAAAAAAMaM/c-4J3O6qPegBY6wyBZTogHOknhJTHAFBgCLcBGAsYHQ/s1024/NINJA%2BPOS%2BAPPS.png)
 
 Cool login area menu
 
-![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/home.png/max/max/1)
+![free point of sale software free download](https://1.bp.blogspot.com/-ukzxb1hW_n8/YAGzpabbRlI/AAAAAAAAMaY/Snoj-n9QfV0EdLNEVKp2-Z8h7Mkr0OFHACLcBGAsYHQ/s432/login.png)
 
 Complete features for supporting your bussiness
 
-![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/report.png/max/max/1)
+![free point of sale software free download](https://1.bp.blogspot.com/-I_T52fabM1M/YAGzpTgtgOI/AAAAAAAAMaU/cCycDQKvuaAjWX7X8-La7YPMSfZoOCeZwCLcBGAsYHQ/s1060/home.png)
 
 All report details make easy for check report.
 
-![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/po.png/max/max/1)
+![free point of sale software free download](https://1.bp.blogspot.com/-p8ye-306mR8/YAGzr9n-V6I/AAAAAAAAMao/OTMxk87ZioEiMCXiWQF4JZljIWStI0wdgCLcBGAsYHQ/s842/report.png)
 
 Purchase order fatures and support return too.
 
-![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/pos.png/max/max/1)
+![free point of sale software free download](https://1.bp.blogspot.com/-Um_rfgIFoqY/YAGzpgqwFbI/AAAAAAAAMac/p7sw4btAeCQ9Bo-Z1R62TuOTlChzw49cACLcBGAsYHQ/s922/po.png)
 
 Point of sale cashier transaction with barcode and retur sale too.
 
-![free point of sale software free download](https://a.fsdn.com/con/app/proj/softwarepos/screenshots/products.png/max/max/1)
+![free point of sale software free download](https://1.bp.blogspot.com/-WTFfccLLrQI/YAGzqeZyyLI/AAAAAAAAMag/crrAUVVy_H8umSFteD_Mz0zrdEFqeDq4QCLcBGAsYHQ/s1246/pos.png)
 
 Product database with barcode.
 
